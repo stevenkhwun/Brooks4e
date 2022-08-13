@@ -1,5 +1,8 @@
 # Brooks4e
+
 Python Guide to Introductory Econometrics for Finance by Chris Brooks
+
+**IMPORTANT: This repository is still under construction and the contents are not complete and may not be accurate.**
 
 This repository contains my works on the book Python Guide to Introductory Econometrics for Finance (4th ed.) by Chris Brooks.
 
